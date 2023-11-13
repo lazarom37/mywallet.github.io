@@ -1,0 +1,21 @@
+
+SPRINT 
+
+01. Set up navigation links to four or more pages - Edward 
+-Login
+-register
+-dashboard
+-earningsAndSpendings
+-reccuringEarningsAndSpendings
+-report
+
+02. Add Navbar to all pages/navigation links, Set up "basic" UI for 5 pages - Viktoria 
+
+
+04. Add list, and add module to Earnings/Spendings 
+(tutorials) - Edward 
+
+05. Forgot Password - Marcus 
+
+--------
+06. Add list, and add module to Recurent Earnings/Spendings (EXTRA)
